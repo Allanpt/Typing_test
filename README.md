@@ -1,1 +1,1 @@
-# Typing_test
+![Typing Test Result](Capturar.JPG)
